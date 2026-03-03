@@ -1,3 +1,4 @@
 # modilyy
 
-Discord Moderationbot with Roblox Integration, Roblox ui to Ban Players and seamless UserControl
+Discord Moderationbot with Roblox Integration, Roblox ui to Ban Players
+- Not everything documented nor included
